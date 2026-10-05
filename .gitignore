@@ -1,0 +1,8 @@
+# REAL student data: never commit
+data/
+.streamlit/secrets.toml
+.env
+
+# Python
+__pycache__/
+*.pyc
