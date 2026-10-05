@@ -1,0 +1,5 @@
+# The app (installed by Streamlit Community Cloud)
+streamlit>=1.50
+gspread>=6.0        # only used on the cloud, to save ratings to a private Google Sheet
+# Analysis chart (only needed on your laptop)
+matplotlib>=3.8

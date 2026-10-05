@@ -1,0 +1,1126 @@
+{
+  "generated_at": "2026-10-02T09:15:49",
+  "users": {
+    "u001": {
+      "first_name": "Kenji",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u018",
+          "first_name": "Wei",
+          "shared": [
+            "Both night owls",
+            "Both speak Korean",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Wei have a few things in common: both night owls, both speak korean, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u009",
+          "first_name": "Tom",
+          "shared": [
+            "Both love a social flat",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Tom have a few things in common: both love a social flat, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u025",
+          "first_name": "Sanjana",
+          "shared": [
+            "Both night owls",
+            "Both love a social flat",
+            "Both speak Korean"
+          ],
+          "explanation": "You and Sanjana have a few things in common: both night owls, both love a social flat, both speak korean."
+        }
+      ]
+    },
+    "u002": {
+      "first_name": "Chloe",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u026",
+          "first_name": "Jae-Won",
+          "shared": [
+            "Both like New Territories East",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Jae-Won have a few things in common: both like new territories east, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u005",
+          "first_name": "Arjun",
+          "shared": [
+            "Both early sleepers",
+            "Same tidiness standards",
+            "Both like Southern"
+          ],
+          "explanation": "You and Arjun have a few things in common: both early sleepers, same tidiness standards, both like southern."
+        },
+        {
+          "slot": 3,
+          "match_id": "u011",
+          "first_name": "Olivia",
+          "shared": [
+            "Same tidiness standards",
+            "Both like Southern",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Olivia have a few things in common: same tidiness standards, both like southern, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u003": {
+      "first_name": "Kiran",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u020",
+          "first_name": "Diego",
+          "shared": [
+            "Similar bedtimes",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Diego have a few things in common: similar bedtimes, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u008",
+          "first_name": "Lin",
+          "shared": [
+            "Similar bedtimes",
+            "Both value quiet time",
+            "Similar weekends"
+          ],
+          "explanation": "You and Lin have a few things in common: similar bedtimes, both value quiet time, similar weekends."
+        },
+        {
+          "slot": 3,
+          "match_id": "u029",
+          "first_name": "Sofia",
+          "shared": [
+            "Similar bedtimes",
+            "Same tidiness standards",
+            "Both value quiet time"
+          ],
+          "explanation": "You and Sofia have a few things in common: similar bedtimes, same tidiness standards, both value quiet time."
+        }
+      ]
+    },
+    "u004": {
+      "first_name": "Rahul",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u005",
+          "first_name": "Arjun",
+          "shared": [
+            "Both early sleepers",
+            "Both at HKU",
+            "Both like Southern"
+          ],
+          "explanation": "You and Arjun have a few things in common: both early sleepers, both at hku, both like southern."
+        },
+        {
+          "slot": 2,
+          "match_id": "u019",
+          "first_name": "Mei",
+          "shared": [
+            "Both early sleepers",
+            "Both at HKU",
+            "Both like Southern"
+          ],
+          "explanation": "You and Mei have a few things in common: both early sleepers, both at hku, both like southern."
+        },
+        {
+          "slot": 3,
+          "match_id": "u002",
+          "first_name": "Chloe",
+          "shared": [
+            "Both early sleepers",
+            "Both love a social flat",
+            "Both homebodies on weekends"
+          ],
+          "explanation": "You and Chloe have a few things in common: both early sleepers, both love a social flat, both homebodies on weekends."
+        }
+      ]
+    },
+    "u005": {
+      "first_name": "Arjun",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u002",
+          "first_name": "Chloe",
+          "shared": [
+            "Both early sleepers",
+            "Same tidiness standards",
+            "Both like Southern"
+          ],
+          "explanation": "You and Chloe have a few things in common: both early sleepers, same tidiness standards, both like southern."
+        },
+        {
+          "slot": 2,
+          "match_id": "u010",
+          "first_name": "Fatima",
+          "shared": [
+            "Both like a social-quiet mix",
+            "Both love to cook",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Fatima have a few things in common: both like a social-quiet mix, both love to cook, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u006",
+          "first_name": "Jack",
+          "shared": [
+            "Both early sleepers",
+            "Both love to cook",
+            "Both like Southern"
+          ],
+          "explanation": "You and Jack have a few things in common: both early sleepers, both love to cook, both like southern."
+        }
+      ]
+    },
+    "u006": {
+      "first_name": "Jack",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u019",
+          "first_name": "Mei",
+          "shared": [
+            "Both early sleepers",
+            "Both love to cook",
+            "Both like Southern"
+          ],
+          "explanation": "You and Mei have a few things in common: both early sleepers, both love to cook, both like southern."
+        },
+        {
+          "slot": 2,
+          "match_id": "u011",
+          "first_name": "Olivia",
+          "shared": [
+            "Both love to cook",
+            "Similar weekends",
+            "Both like Southern"
+          ],
+          "explanation": "You and Olivia have a few things in common: both love to cook, similar weekends, both like southern."
+        },
+        {
+          "slot": 3,
+          "match_id": "u007",
+          "first_name": "Nadia",
+          "shared": [
+            "Both keep things tidy",
+            "Both love to cook",
+            "Similar weekends"
+          ],
+          "explanation": "You and Nadia have a few things in common: both keep things tidy, both love to cook, similar weekends."
+        }
+      ]
+    },
+    "u007": {
+      "first_name": "Nadia",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u008",
+          "first_name": "Lin",
+          "shared": [
+            "Similar bedtimes",
+            "Both value quiet time",
+            "Similar weekends"
+          ],
+          "explanation": "You and Lin have a few things in common: similar bedtimes, both value quiet time, similar weekends."
+        },
+        {
+          "slot": 2,
+          "match_id": "u018",
+          "first_name": "Wei",
+          "shared": [
+            "Both keep things tidy",
+            "Both value quiet time",
+            "Both like Kowloon Central"
+          ],
+          "explanation": "You and Wei have a few things in common: both keep things tidy, both value quiet time, both like kowloon central."
+        },
+        {
+          "slot": 3,
+          "match_id": "u010",
+          "first_name": "Fatima",
+          "shared": [
+            "Similar bedtimes",
+            "Both love to cook",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Fatima have a few things in common: similar bedtimes, both love to cook, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u008": {
+      "first_name": "Lin",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u010",
+          "first_name": "Fatima",
+          "shared": [
+            "Similar bedtimes",
+            "Same tidiness standards",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Fatima have a few things in common: similar bedtimes, same tidiness standards, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u015",
+          "first_name": "Priya",
+          "shared": [
+            "Both value quiet time",
+            "Both at CUHK",
+            "Similar weekends"
+          ],
+          "explanation": "You and Priya have a few things in common: both value quiet time, both at cuhk, similar weekends."
+        },
+        {
+          "slot": 3,
+          "match_id": "u007",
+          "first_name": "Nadia",
+          "shared": [
+            "Similar bedtimes",
+            "Both value quiet time",
+            "Similar weekends"
+          ],
+          "explanation": "You and Nadia have a few things in common: similar bedtimes, both value quiet time, similar weekends."
+        }
+      ]
+    },
+    "u009": {
+      "first_name": "Tom",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u018",
+          "first_name": "Wei",
+          "shared": [
+            "Both keep things tidy",
+            "Both like Kowloon Central",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Wei have a few things in common: both keep things tidy, both like kowloon central, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u025",
+          "first_name": "Sanjana",
+          "shared": [
+            "Both keep things tidy",
+            "Both love a social flat",
+            "Both like Kowloon Central"
+          ],
+          "explanation": "You and Sanjana have a few things in common: both keep things tidy, both love a social flat, both like kowloon central."
+        },
+        {
+          "slot": 3,
+          "match_id": "u001",
+          "first_name": "Kenji",
+          "shared": [
+            "Both love a social flat",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Kenji have a few things in common: both love a social flat, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u010": {
+      "first_name": "Fatima",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u006",
+          "first_name": "Jack",
+          "shared": [
+            "Both love to cook",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Jack have a few things in common: both love to cook, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u008",
+          "first_name": "Lin",
+          "shared": [
+            "Similar bedtimes",
+            "Same tidiness standards",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Lin have a few things in common: similar bedtimes, same tidiness standards, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u019",
+          "first_name": "Mei",
+          "shared": [
+            "Both like a social-quiet mix",
+            "Both love to cook",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Mei have a few things in common: both like a social-quiet mix, both love to cook, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u011": {
+      "first_name": "Olivia",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u002",
+          "first_name": "Chloe",
+          "shared": [
+            "Same tidiness standards",
+            "Both like Southern",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Chloe have a few things in common: same tidiness standards, both like southern, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u017",
+          "first_name": "Grace",
+          "shared": [
+            "Similar bedtimes",
+            "Same tidiness standards",
+            "Both like Western"
+          ],
+          "explanation": "You and Grace have a few things in common: similar bedtimes, same tidiness standards, both like western."
+        },
+        {
+          "slot": 3,
+          "match_id": "u006",
+          "first_name": "Jack",
+          "shared": [
+            "Both love to cook",
+            "Similar weekends",
+            "Both like Southern"
+          ],
+          "explanation": "You and Jack have a few things in common: both love to cook, similar weekends, both like southern."
+        }
+      ]
+    },
+    "u012": {
+      "first_name": "Isabella",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u019",
+          "first_name": "Mei",
+          "shared": [
+            "Both early sleepers",
+            "Same tidiness standards",
+            "Both at HKU"
+          ],
+          "explanation": "You and Mei have a few things in common: both early sleepers, same tidiness standards, both at hku."
+        },
+        {
+          "slot": 2,
+          "match_id": "u020",
+          "first_name": "Diego",
+          "shared": [
+            "Both like Kowloon West",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Diego have a few things in common: both like kowloon west, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u023",
+          "first_name": "Ana",
+          "shared": [
+            "Both at HKU",
+            "Both like Kowloon West",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Ana have a few things in common: both at hku, both like kowloon west, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u013": {
+      "first_name": "Hannah",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u007",
+          "first_name": "Nadia",
+          "shared": [
+            "Similar bedtimes",
+            "Similar weekends",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Nadia have a few things in common: similar bedtimes, similar weekends, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u018",
+          "first_name": "Wei",
+          "shared": [
+            "Both speak Korean",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Wei have a few things in common: both speak korean, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u009",
+          "first_name": "Tom",
+          "shared": [
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Tom have a few things in common: budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u014": {
+      "first_name": "Bao",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u028",
+          "first_name": "Aarav",
+          "shared": [
+            "Both early sleepers",
+            "Both like Southern",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Aarav have a few things in common: both early sleepers, both like southern, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u023",
+          "first_name": "Ana",
+          "shared": [
+            "Both like Kowloon West",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Ana have a few things in common: both like kowloon west, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u004",
+          "first_name": "Rahul",
+          "shared": [
+            "Both early sleepers",
+            "Both like Southern",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Rahul have a few things in common: both early sleepers, both like southern, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u015": {
+      "first_name": "Priya",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u008",
+          "first_name": "Lin",
+          "shared": [
+            "Both value quiet time",
+            "Both at CUHK",
+            "Similar weekends"
+          ],
+          "explanation": "You and Lin have a few things in common: both value quiet time, both at cuhk, similar weekends."
+        },
+        {
+          "slot": 2,
+          "match_id": "u006",
+          "first_name": "Jack",
+          "shared": [
+            "Both keep things tidy",
+            "Similar weekends",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Jack have a few things in common: both keep things tidy, similar weekends, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u021",
+          "first_name": "Emma",
+          "shared": [
+            "Both night owls",
+            "Both keep things tidy",
+            "Both like Kowloon Central"
+          ],
+          "explanation": "You and Emma have a few things in common: both night owls, both keep things tidy, both like kowloon central."
+        }
+      ]
+    },
+    "u016": {
+      "first_name": "Lucas",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u029",
+          "first_name": "Sofia",
+          "shared": [
+            "Similar bedtimes",
+            "Same tidiness standards",
+            "Both value quiet time"
+          ],
+          "explanation": "You and Sofia have a few things in common: similar bedtimes, same tidiness standards, both value quiet time."
+        },
+        {
+          "slot": 2,
+          "match_id": "u008",
+          "first_name": "Lin",
+          "shared": [
+            "Similar bedtimes",
+            "Both value quiet time",
+            "Similar weekends"
+          ],
+          "explanation": "You and Lin have a few things in common: similar bedtimes, both value quiet time, similar weekends."
+        },
+        {
+          "slot": 3,
+          "match_id": "u020",
+          "first_name": "Diego",
+          "shared": [
+            "Similar bedtimes",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Diego have a few things in common: similar bedtimes, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u017": {
+      "first_name": "Grace",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u011",
+          "first_name": "Olivia",
+          "shared": [
+            "Similar bedtimes",
+            "Same tidiness standards",
+            "Both like Western"
+          ],
+          "explanation": "You and Olivia have a few things in common: similar bedtimes, same tidiness standards, both like western."
+        },
+        {
+          "slot": 2,
+          "match_id": "u020",
+          "first_name": "Diego",
+          "shared": [
+            "Similar bedtimes",
+            "Both like Western",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Diego have a few things in common: similar bedtimes, both like western, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u028",
+          "first_name": "Aarav",
+          "shared": [
+            "Both at HKU",
+            "Both homebodies on weekends",
+            "Both like New Territories East"
+          ],
+          "explanation": "You and Aarav have a few things in common: both at hku, both homebodies on weekends, both like new territories east."
+        }
+      ]
+    },
+    "u018": {
+      "first_name": "Wei",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u025",
+          "first_name": "Sanjana",
+          "shared": [
+            "Both night owls",
+            "Both keep things tidy",
+            "Both at CityU"
+          ],
+          "explanation": "You and Sanjana have a few things in common: both night owls, both keep things tidy, both at cityu."
+        },
+        {
+          "slot": 2,
+          "match_id": "u009",
+          "first_name": "Tom",
+          "shared": [
+            "Both keep things tidy",
+            "Both like Kowloon Central",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Tom have a few things in common: both keep things tidy, both like kowloon central, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u007",
+          "first_name": "Nadia",
+          "shared": [
+            "Both keep things tidy",
+            "Both value quiet time",
+            "Both like Kowloon Central"
+          ],
+          "explanation": "You and Nadia have a few things in common: both keep things tidy, both value quiet time, both like kowloon central."
+        }
+      ]
+    },
+    "u019": {
+      "first_name": "Mei",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u006",
+          "first_name": "Jack",
+          "shared": [
+            "Both early sleepers",
+            "Both love to cook",
+            "Both like Southern"
+          ],
+          "explanation": "You and Jack have a few things in common: both early sleepers, both love to cook, both like southern."
+        },
+        {
+          "slot": 2,
+          "match_id": "u002",
+          "first_name": "Chloe",
+          "shared": [
+            "Both early sleepers",
+            "Same tidiness standards",
+            "Both like Southern"
+          ],
+          "explanation": "You and Chloe have a few things in common: both early sleepers, same tidiness standards, both like southern."
+        },
+        {
+          "slot": 3,
+          "match_id": "u010",
+          "first_name": "Fatima",
+          "shared": [
+            "Both like a social-quiet mix",
+            "Both love to cook",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Fatima have a few things in common: both like a social-quiet mix, both love to cook, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u020": {
+      "first_name": "Diego",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u017",
+          "first_name": "Grace",
+          "shared": [
+            "Similar bedtimes",
+            "Both like Western",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Grace have a few things in common: similar bedtimes, both like western, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u029",
+          "first_name": "Sofia",
+          "shared": [
+            "Similar bedtimes",
+            "Both out a lot on weekends",
+            "Both like Western"
+          ],
+          "explanation": "You and Sofia have a few things in common: similar bedtimes, both out a lot on weekends, both like western."
+        },
+        {
+          "slot": 3,
+          "match_id": "u003",
+          "first_name": "Kiran",
+          "shared": [
+            "Similar bedtimes",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Kiran have a few things in common: similar bedtimes, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u021": {
+      "first_name": "Emma",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u012",
+          "first_name": "Isabella",
+          "shared": [
+            "Both at HKU",
+            "Both like Kowloon West",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Isabella have a few things in common: both at hku, both like kowloon west, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u006",
+          "first_name": "Jack",
+          "shared": [
+            "Both keep things tidy",
+            "Both love to cook",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Jack have a few things in common: both keep things tidy, both love to cook, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u015",
+          "first_name": "Priya",
+          "shared": [
+            "Both night owls",
+            "Both keep things tidy",
+            "Both like Kowloon Central"
+          ],
+          "explanation": "You and Priya have a few things in common: both night owls, both keep things tidy, both like kowloon central."
+        }
+      ]
+    },
+    "u022": {
+      "first_name": "Liam",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u007",
+          "first_name": "Nadia",
+          "shared": [
+            "Both keep things tidy",
+            "Both like Kowloon Central",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Nadia have a few things in common: both keep things tidy, both like kowloon central, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u019",
+          "first_name": "Mei",
+          "shared": [
+            "Both like a social-quiet mix",
+            "Both at HKU",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Mei have a few things in common: both like a social-quiet mix, both at hku, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u010",
+          "first_name": "Fatima",
+          "shared": [
+            "Both like a social-quiet mix",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Fatima have a few things in common: both like a social-quiet mix, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u023": {
+      "first_name": "Ana",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u015",
+          "first_name": "Priya",
+          "shared": [
+            "Both night owls",
+            "Both keep things tidy",
+            "Both like Kowloon Central"
+          ],
+          "explanation": "You and Priya have a few things in common: both night owls, both keep things tidy, both like kowloon central."
+        },
+        {
+          "slot": 2,
+          "match_id": "u014",
+          "first_name": "Bao",
+          "shared": [
+            "Both like Kowloon West",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Bao have a few things in common: both like kowloon west, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u012",
+          "first_name": "Isabella",
+          "shared": [
+            "Both at HKU",
+            "Both like Kowloon West",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Isabella have a few things in common: both at hku, both like kowloon west, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u024": {
+      "first_name": "Yuki",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u025",
+          "first_name": "Sanjana",
+          "shared": [
+            "Both keep things tidy",
+            "Both love a social flat",
+            "Both at CityU"
+          ],
+          "explanation": "You and Sanjana have a few things in common: both keep things tidy, both love a social flat, both at cityu."
+        },
+        {
+          "slot": 2,
+          "match_id": "u013",
+          "first_name": "Hannah",
+          "shared": [
+            "Similar bedtimes",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Hannah have a few things in common: similar bedtimes, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u007",
+          "first_name": "Nadia",
+          "shared": [
+            "Similar bedtimes",
+            "Both keep things tidy",
+            "Both love to cook"
+          ],
+          "explanation": "You and Nadia have a few things in common: similar bedtimes, both keep things tidy, both love to cook."
+        }
+      ]
+    },
+    "u025": {
+      "first_name": "Sanjana",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u024",
+          "first_name": "Yuki",
+          "shared": [
+            "Both keep things tidy",
+            "Both love a social flat",
+            "Both at CityU"
+          ],
+          "explanation": "You and Yuki have a few things in common: both keep things tidy, both love a social flat, both at cityu."
+        },
+        {
+          "slot": 2,
+          "match_id": "u009",
+          "first_name": "Tom",
+          "shared": [
+            "Both keep things tidy",
+            "Both love a social flat",
+            "Both like Kowloon Central"
+          ],
+          "explanation": "You and Tom have a few things in common: both keep things tidy, both love a social flat, both like kowloon central."
+        },
+        {
+          "slot": 3,
+          "match_id": "u027",
+          "first_name": "Minh",
+          "shared": [
+            "Both night owls",
+            "Both keep things tidy",
+            "Both speak Korean"
+          ],
+          "explanation": "You and Minh have a few things in common: both night owls, both keep things tidy, both speak korean."
+        }
+      ]
+    },
+    "u026": {
+      "first_name": "Jae-Won",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u004",
+          "first_name": "Rahul",
+          "shared": [
+            "Both like New Territories East",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Rahul have a few things in common: both like new territories east, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u002",
+          "first_name": "Chloe",
+          "shared": [
+            "Both like New Territories East",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Chloe have a few things in common: both like new territories east, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u023",
+          "first_name": "Ana",
+          "shared": [
+            "Both like Kowloon West",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Ana have a few things in common: both like kowloon west, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u027": {
+      "first_name": "Minh",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u025",
+          "first_name": "Sanjana",
+          "shared": [
+            "Both night owls",
+            "Both keep things tidy",
+            "Both speak Korean"
+          ],
+          "explanation": "You and Sanjana have a few things in common: both night owls, both keep things tidy, both speak korean."
+        },
+        {
+          "slot": 2,
+          "match_id": "u010",
+          "first_name": "Fatima",
+          "shared": [
+            "Both like a social-quiet mix",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Fatima have a few things in common: both like a social-quiet mix, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u007",
+          "first_name": "Nadia",
+          "shared": [
+            "Both keep things tidy",
+            "Both like Kowloon Central",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Nadia have a few things in common: both keep things tidy, both like kowloon central, budgets and move-in dates line up."
+        }
+      ]
+    },
+    "u028": {
+      "first_name": "Aarav",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u005",
+          "first_name": "Arjun",
+          "shared": [
+            "Both early sleepers",
+            "Both at HKU",
+            "Both like Southern"
+          ],
+          "explanation": "You and Arjun have a few things in common: both early sleepers, both at hku, both like southern."
+        },
+        {
+          "slot": 2,
+          "match_id": "u002",
+          "first_name": "Chloe",
+          "shared": [
+            "Both early sleepers",
+            "Both love a social flat",
+            "Both homebodies on weekends"
+          ],
+          "explanation": "You and Chloe have a few things in common: both early sleepers, both love a social flat, both homebodies on weekends."
+        },
+        {
+          "slot": 3,
+          "match_id": "u017",
+          "first_name": "Grace",
+          "shared": [
+            "Both at HKU",
+            "Both homebodies on weekends",
+            "Both like New Territories East"
+          ],
+          "explanation": "You and Grace have a few things in common: both at hku, both homebodies on weekends, both like new territories east."
+        }
+      ]
+    },
+    "u029": {
+      "first_name": "Sofia",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u007",
+          "first_name": "Nadia",
+          "shared": [
+            "Similar bedtimes",
+            "Both value quiet time",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Nadia have a few things in common: similar bedtimes, both value quiet time, budgets and move-in dates line up."
+        },
+        {
+          "slot": 2,
+          "match_id": "u008",
+          "first_name": "Lin",
+          "shared": [
+            "Similar bedtimes",
+            "Both value quiet time",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Lin have a few things in common: similar bedtimes, both value quiet time, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u030",
+          "first_name": "Amira",
+          "shared": [
+            "Similar bedtimes",
+            "Both out a lot on weekends",
+            "Both like New Territories East"
+          ],
+          "explanation": "You and Amira have a few things in common: similar bedtimes, both out a lot on weekends, both like new territories east."
+        }
+      ]
+    },
+    "u030": {
+      "first_name": "Amira",
+      "matches": [
+        {
+          "slot": 1,
+          "match_id": "u020",
+          "first_name": "Diego",
+          "shared": [
+            "Similar bedtimes",
+            "Same tidiness standards",
+            "Both out a lot on weekends"
+          ],
+          "explanation": "You and Diego have a few things in common: similar bedtimes, same tidiness standards, both out a lot on weekends."
+        },
+        {
+          "slot": 2,
+          "match_id": "u027",
+          "first_name": "Minh",
+          "shared": [
+            "Both like a social-quiet mix",
+            "Both like New Territories East",
+            "Budgets and move-in dates line up"
+          ],
+          "explanation": "You and Minh have a few things in common: both like a social-quiet mix, both like new territories east, budgets and move-in dates line up."
+        },
+        {
+          "slot": 3,
+          "match_id": "u029",
+          "first_name": "Sofia",
+          "shared": [
+            "Similar bedtimes",
+            "Both out a lot on weekends",
+            "Both like New Territories East"
+          ],
+          "explanation": "You and Sofia have a few things in common: similar bedtimes, both out a lot on weekends, both like new territories east."
+        }
+      ]
+    }
+  }
+}

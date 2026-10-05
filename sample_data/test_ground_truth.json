@@ -1,0 +1,345 @@
+{
+  "note": "FAKE data. Traits each free-text answer was generated from.",
+  "students": {
+    "kenji.1@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [],
+      "social_energy": "extrovert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "out_a_lot",
+      "cooking_frequency": "unknown"
+    },
+    "chloe.2@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [],
+      "social_energy": "extrovert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "homebody",
+      "cooking_frequency": "sometimes"
+    },
+    "kiran.3@example.com": {
+      "habits": [
+        "parties"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "introvert",
+      "study_habits": "unknown",
+      "weekend_lifestyle": "balanced",
+      "cooking_frequency": "most_days"
+    },
+    "rahul.4@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [],
+      "social_energy": "extrovert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "homebody",
+      "cooking_frequency": "rarely"
+    },
+    "arjun.5@example.com": {
+      "habits": [
+        "leaves_dishes"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "ambivert",
+      "study_habits": "mostly_on_campus",
+      "weekend_lifestyle": "out_a_lot",
+      "cooking_frequency": "most_days"
+    },
+    "jack.6@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [
+        "strong_food_smells"
+      ],
+      "social_energy": "unknown",
+      "study_habits": "mostly_on_campus",
+      "weekend_lifestyle": "balanced",
+      "cooking_frequency": "most_days"
+    },
+    "nadia.7@example.com": {
+      "habits": [
+        "strong_food_smells"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "introvert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "balanced",
+      "cooking_frequency": "most_days"
+    },
+    "lin.8@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [
+        "early_alarms"
+      ],
+      "social_energy": "introvert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "balanced",
+      "cooking_frequency": "sometimes"
+    },
+    "tom.9@example.com": {
+      "habits": [
+        "leaves_dishes"
+      ],
+      "extra_dealbreakers": [
+        "early_alarms"
+      ],
+      "social_energy": "extrovert",
+      "study_habits": "mostly_on_campus",
+      "weekend_lifestyle": "unknown",
+      "cooking_frequency": "unknown"
+    },
+    "fatima.10@example.com": {
+      "habits": [
+        "overnight_guests"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "ambivert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "unknown",
+      "cooking_frequency": "most_days"
+    },
+    "olivia.11@example.com": {
+      "habits": [
+        "leaves_dishes"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "unknown",
+      "study_habits": "home_needs_quiet",
+      "weekend_lifestyle": "balanced",
+      "cooking_frequency": "unknown"
+    },
+    "isabella.12@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [],
+      "social_energy": "unknown",
+      "study_habits": "mostly_on_campus",
+      "weekend_lifestyle": "balanced",
+      "cooking_frequency": "rarely"
+    },
+    "hannah.13@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [],
+      "social_energy": "unknown",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "balanced",
+      "cooking_frequency": "rarely"
+    },
+    "bao.14@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [],
+      "social_energy": "ambivert",
+      "study_habits": "unknown",
+      "weekend_lifestyle": "balanced",
+      "cooking_frequency": "rarely"
+    },
+    "priya.15@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [
+        "early_alarms"
+      ],
+      "social_energy": "introvert",
+      "study_habits": "home_needs_quiet",
+      "weekend_lifestyle": "balanced",
+      "cooking_frequency": "rarely"
+    },
+    "lucas.16@example.com": {
+      "habits": [
+        "parties"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "introvert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "balanced",
+      "cooking_frequency": "unknown"
+    },
+    "grace.17@example.com": {
+      "habits": [
+        "early_alarms"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "ambivert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "homebody",
+      "cooking_frequency": "sometimes"
+    },
+    "wei.18@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [
+        "parties"
+      ],
+      "social_energy": "introvert",
+      "study_habits": "mostly_on_campus",
+      "weekend_lifestyle": "unknown",
+      "cooking_frequency": "sometimes"
+    },
+    "mei.19@example.com": {
+      "habits": [
+        "leaves_dishes"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "ambivert",
+      "study_habits": "mostly_on_campus",
+      "weekend_lifestyle": "unknown",
+      "cooking_frequency": "most_days"
+    },
+    "diego.20@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [],
+      "social_energy": "unknown",
+      "study_habits": "home_needs_quiet",
+      "weekend_lifestyle": "out_a_lot",
+      "cooking_frequency": "sometimes"
+    },
+    "emma.21@example.com": {
+      "habits": [
+        "parties"
+      ],
+      "extra_dealbreakers": [
+        "shoes_indoors"
+      ],
+      "social_energy": "extrovert",
+      "study_habits": "home_needs_quiet",
+      "weekend_lifestyle": "out_a_lot",
+      "cooking_frequency": "unknown"
+    },
+    "liam.22@example.com": {
+      "habits": [
+        "shoes_indoors"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "ambivert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "homebody",
+      "cooking_frequency": "rarely"
+    },
+    "ana.23@example.com": {
+      "habits": [
+        "parties"
+      ],
+      "extra_dealbreakers": [
+        "shoes_indoors"
+      ],
+      "social_energy": "extrovert",
+      "study_habits": "home_needs_quiet",
+      "weekend_lifestyle": "unknown",
+      "cooking_frequency": "most_days"
+    },
+    "yuki.24@example.com": {
+      "habits": [
+        "overnight_guests"
+      ],
+      "extra_dealbreakers": [
+        "strong_food_smells"
+      ],
+      "social_energy": "extrovert",
+      "study_habits": "home_needs_quiet",
+      "weekend_lifestyle": "homebody",
+      "cooking_frequency": "most_days"
+    },
+    "sanjana.25@example.com": {
+      "habits": [
+        "parties"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "extrovert",
+      "study_habits": "unknown",
+      "weekend_lifestyle": "out_a_lot",
+      "cooking_frequency": "sometimes"
+    },
+    "jaewon.26@example.com": {
+      "habits": [
+        "leaves_dishes"
+      ],
+      "extra_dealbreakers": [
+        "overnight_guests"
+      ],
+      "social_energy": "unknown",
+      "study_habits": "mostly_on_campus",
+      "weekend_lifestyle": "out_a_lot",
+      "cooking_frequency": "sometimes"
+    },
+    "minh.27@example.com": {
+      "habits": [
+        "shoes_indoors"
+      ],
+      "extra_dealbreakers": [],
+      "social_energy": "ambivert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "homebody",
+      "cooking_frequency": "rarely"
+    },
+    "aarav.28@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [],
+      "social_energy": "extrovert",
+      "study_habits": "home_flexible",
+      "weekend_lifestyle": "homebody",
+      "cooking_frequency": "rarely"
+    },
+    "sofia.29@example.com": {
+      "habits": [],
+      "extra_dealbreakers": [
+        "loud_music"
+      ],
+      "social_energy": "introvert",
+      "study_habits": "mostly_on_campus",
+      "weekend_lifestyle": "out_a_lot",
+      "cooking_frequency": "rarely"
+    },
+    "amira.30@example.com": {
+      "habits": [
+        "leaves_dishes"
+      ],
+      "extra_dealbreakers": [
+        "overnight_guests"
+      ],
+      "social_energy": "ambivert",
+      "study_habits": "unknown",
+      "weekend_lifestyle": "out_a_lot",
+      "cooking_frequency": "sometimes"
+    }
+  },
+  "planted_pairs": [
+    {
+      "scenario": "twins_1",
+      "expect": "best_match_both_modes",
+      "a": "u019",
+      "b": "u005"
+    },
+    {
+      "scenario": "twins_2",
+      "expect": "best_match_both_modes",
+      "a": "u016",
+      "b": "u003"
+    },
+    {
+      "scenario": "smoker_conflict",
+      "expect": "no_edge",
+      "a": "u028",
+      "b": "u004"
+    },
+    {
+      "scenario": "budget_conflict",
+      "expect": "no_edge",
+      "a": "u022",
+      "b": "u027"
+    },
+    {
+      "scenario": "move_in_conflict",
+      "expect": "no_edge",
+      "a": "u026",
+      "b": "u030"
+    },
+    {
+      "scenario": "pet_conflict",
+      "expect": "no_edge",
+      "a": "u023",
+      "b": "u021"
+    },
+    {
+      "scenario": "hidden_conflict",
+      "expect": "baseline_best_but_ai_lower",
+      "a": "u018",
+      "b": "u025"
+    }
+  ]
+}

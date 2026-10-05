@@ -1,0 +1,68 @@
+{
+  "students": 30,
+  "trait_source": "offline (known answers)",
+  "funnel": [
+    [
+      "All possible pairs",
+      435
+    ],
+    [
+      "Budgets overlap",
+      392
+    ],
+    [
+      "Move-in within 6 weeks",
+      229
+    ],
+    [
+      "No dealbreaker either way",
+      168
+    ]
+  ],
+  "eligible_matches_per_student": {
+    "mean": 11.2,
+    "min": 3,
+    "max": 21,
+    "students_with_3_or_more": 30
+  },
+  "one_sided_pairs": {
+    "share_with_20pt_gap": 0.03571428571428571,
+    "avg_points_removed_by_harmonic_mean": 0.3558541187983424
+  },
+  "ai_vs_baseline": {
+    "students_compared": 30,
+    "top_match_differs": 12,
+    "avg_shared_in_top_3": 2.066666666666667,
+    "identical_top_3": 3
+  },
+  "planted_tests": [
+    [
+      "twins_1",
+      true
+    ],
+    [
+      "twins_2",
+      true
+    ],
+    [
+      "smoker_conflict",
+      true
+    ],
+    [
+      "budget_conflict",
+      true
+    ],
+    [
+      "move_in_conflict",
+      true
+    ],
+    [
+      "pet_conflict",
+      true
+    ],
+    [
+      "hidden_conflict",
+      true
+    ]
+  ]
+}

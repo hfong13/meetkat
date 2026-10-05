@@ -1,0 +1,722 @@
+{
+  "meta": {
+    "generated_at": "2026-10-02T09:15:49",
+    "seed": 2026,
+    "students_in_experiment": 30,
+    "excluded_count": 0,
+    "design_counts": {
+      "disagreement": 28,
+      "fallback": 2
+    },
+    "rank_used": {
+      "ai": {
+        "1": 7,
+        "2": 10,
+        "3": 14,
+        "4": 13,
+        "5": 16
+      },
+      "baseline": {
+        "1": 7,
+        "2": 8,
+        "3": 13,
+        "4": 1,
+        "6": 1
+      }
+    },
+    "explanations": "offline template"
+  },
+  "assignments": {
+    "u001": [
+      {
+        "slot": 1,
+        "match_id": "u018",
+        "source": "baseline",
+        "rank_in_source": 1,
+        "design": "fallback"
+      },
+      {
+        "slot": 2,
+        "match_id": "u009",
+        "source": "ai",
+        "rank_in_source": 2,
+        "design": "fallback"
+      },
+      {
+        "slot": 3,
+        "match_id": "u025",
+        "source": "ai",
+        "rank_in_source": 1,
+        "design": "fallback"
+      }
+    ],
+    "u002": [
+      {
+        "slot": 1,
+        "match_id": "u026",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u005",
+        "source": "baseline",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u011",
+        "source": "ai",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      }
+    ],
+    "u003": [
+      {
+        "slot": 1,
+        "match_id": "u020",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u008",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u029",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      }
+    ],
+    "u004": [
+      {
+        "slot": 1,
+        "match_id": "u005",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u019",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u002",
+        "source": "ai",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      }
+    ],
+    "u005": [
+      {
+        "slot": 1,
+        "match_id": "u002",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u010",
+        "source": "ai",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u006",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      }
+    ],
+    "u006": [
+      {
+        "slot": 1,
+        "match_id": "u019",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u011",
+        "source": "ai",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u007",
+        "source": "baseline",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      }
+    ],
+    "u007": [
+      {
+        "slot": 1,
+        "match_id": "u008",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u018",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u010",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      }
+    ],
+    "u008": [
+      {
+        "slot": 1,
+        "match_id": "u010",
+        "source": "baseline",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u015",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u007",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      }
+    ],
+    "u009": [
+      {
+        "slot": 1,
+        "match_id": "u018",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u025",
+        "source": "ai",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u001",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      }
+    ],
+    "u010": [
+      {
+        "slot": 1,
+        "match_id": "u006",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u008",
+        "source": "baseline",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u019",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      }
+    ],
+    "u011": [
+      {
+        "slot": 1,
+        "match_id": "u002",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u017",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u006",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      }
+    ],
+    "u012": [
+      {
+        "slot": 1,
+        "match_id": "u019",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u020",
+        "source": "baseline",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u023",
+        "source": "ai",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      }
+    ],
+    "u013": [
+      {
+        "slot": 1,
+        "match_id": "u007",
+        "source": "baseline",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u018",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u009",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      }
+    ],
+    "u014": [
+      {
+        "slot": 1,
+        "match_id": "u028",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u023",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u004",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      }
+    ],
+    "u015": [
+      {
+        "slot": 1,
+        "match_id": "u008",
+        "source": "ai",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u006",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u021",
+        "source": "baseline",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      }
+    ],
+    "u016": [
+      {
+        "slot": 1,
+        "match_id": "u029",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u008",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u020",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      }
+    ],
+    "u017": [
+      {
+        "slot": 1,
+        "match_id": "u011",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u020",
+        "source": "baseline",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u028",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      }
+    ],
+    "u018": [
+      {
+        "slot": 1,
+        "match_id": "u025",
+        "source": "baseline",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u009",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u007",
+        "source": "ai",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      }
+    ],
+    "u019": [
+      {
+        "slot": 1,
+        "match_id": "u006",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u002",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u010",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      }
+    ],
+    "u020": [
+      {
+        "slot": 1,
+        "match_id": "u017",
+        "source": "baseline",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u029",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u003",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      }
+    ],
+    "u021": [
+      {
+        "slot": 1,
+        "match_id": "u012",
+        "source": "ai",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u006",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u015",
+        "source": "baseline",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      }
+    ],
+    "u022": [
+      {
+        "slot": 1,
+        "match_id": "u007",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u019",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u010",
+        "source": "ai",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      }
+    ],
+    "u023": [
+      {
+        "slot": 1,
+        "match_id": "u015",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u014",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u012",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      }
+    ],
+    "u024": [
+      {
+        "slot": 1,
+        "match_id": "u025",
+        "source": "ai",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u013",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u007",
+        "source": "baseline",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      }
+    ],
+    "u025": [
+      {
+        "slot": 1,
+        "match_id": "u024",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u009",
+        "source": "ai",
+        "rank_in_source": 1,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u027",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      }
+    ],
+    "u026": [
+      {
+        "slot": 1,
+        "match_id": "u004",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u002",
+        "source": "baseline",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u023",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      }
+    ],
+    "u027": [
+      {
+        "slot": 1,
+        "match_id": "u025",
+        "source": "baseline",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u010",
+        "source": "ai",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u007",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      }
+    ],
+    "u028": [
+      {
+        "slot": 1,
+        "match_id": "u005",
+        "source": "baseline",
+        "rank_in_source": 3,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u002",
+        "source": "ai",
+        "rank_in_source": 2,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u017",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      }
+    ],
+    "u029": [
+      {
+        "slot": 1,
+        "match_id": "u007",
+        "source": "baseline",
+        "rank_in_source": 6,
+        "design": "disagreement"
+      },
+      {
+        "slot": 2,
+        "match_id": "u008",
+        "source": "ai",
+        "rank_in_source": 5,
+        "design": "disagreement"
+      },
+      {
+        "slot": 3,
+        "match_id": "u030",
+        "source": "ai",
+        "rank_in_source": 4,
+        "design": "disagreement"
+      }
+    ],
+    "u030": [
+      {
+        "slot": 1,
+        "match_id": "u020",
+        "source": "ai",
+        "rank_in_source": 1,
+        "design": "fallback"
+      },
+      {
+        "slot": 2,
+        "match_id": "u027",
+        "source": "baseline",
+        "rank_in_source": 2,
+        "design": "fallback"
+      },
+      {
+        "slot": 3,
+        "match_id": "u029",
+        "source": "ai",
+        "rank_in_source": 2,
+        "design": "fallback"
+      }
+    ]
+  },
+  "excluded": {}
+}

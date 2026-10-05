@@ -1,0 +1,1185 @@
+{
+  "meta": {
+    "generated_at": "2026-10-02T09:15:49",
+    "model": "offline (known answers)",
+    "prompt_version": "v1",
+    "source_file": "test_responses.csv",
+    "extraction_counts": {
+      "ok": 0,
+      "cached": 0,
+      "failed": 0,
+      "known": 30
+    }
+  },
+  "profiles": [
+    {
+      "user_id": "u001",
+      "first_name": "Kenji",
+      "structured": {
+        "campus": "polyu",
+        "max_commute_min": 30,
+        "preferred_areas": [
+          "western"
+        ],
+        "budget_min_hkd_month": 6000,
+        "budget_max_hkd_month": null,
+        "move_in_month": "2027-02",
+        "sleep_schedule": "late",
+        "cleanliness": 3,
+        "guests_frequency": 4,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "rarely",
+        "languages": [
+          "english",
+          "korean"
+        ],
+        "dealbreakers": [
+          "messy",
+          "smoker"
+        ]
+      },
+      "traits": {
+        "social_energy": "extrovert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "unknown",
+        "weekend_lifestyle": "out_a_lot",
+        "habits": [],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u002",
+      "first_name": "Chloe",
+      "structured": {
+        "campus": "cuhk",
+        "max_commute_min": 30,
+        "preferred_areas": [
+          "central",
+          "southern",
+          "nt_east"
+        ],
+        "budget_min_hkd_month": 6000,
+        "budget_max_hkd_month": null,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "early",
+        "cleanliness": 2,
+        "guests_frequency": 3,
+        "noise_tolerance": 4,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "sometimes",
+        "languages": [
+          "english",
+          "german",
+          "vietnamese"
+        ],
+        "dealbreakers": [
+          "pets"
+        ]
+      },
+      "traits": {
+        "social_energy": "extrovert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "sometimes",
+        "weekend_lifestyle": "homebody",
+        "habits": [],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u003",
+      "first_name": "Kiran",
+      "structured": {
+        "campus": "hkust",
+        "max_commute_min": 45,
+        "preferred_areas": [
+          "any"
+        ],
+        "budget_min_hkd_month": 4000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "2027-02",
+        "sleep_schedule": "middle",
+        "cleanliness": 2,
+        "guests_frequency": 1,
+        "noise_tolerance": 5,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "most_days",
+        "languages": [
+          "english",
+          "french"
+        ],
+        "dealbreakers": [
+          "late_sleeper",
+          "frequent_guests"
+        ]
+      },
+      "traits": {
+        "social_energy": "introvert",
+        "study_habits": "unknown",
+        "cooking_frequency": "most_days",
+        "weekend_lifestyle": "balanced",
+        "habits": [
+          "parties"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u004",
+      "first_name": "Rahul",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 60,
+        "preferred_areas": [
+          "southern",
+          "nt_east"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 7499,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "early",
+        "cleanliness": 5,
+        "guests_frequency": 3,
+        "noise_tolerance": 4,
+        "smoker": "outside",
+        "has_pet": "no",
+        "cooking": "rarely",
+        "languages": [
+          "english",
+          "indonesian"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "extrovert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "rarely",
+        "weekend_lifestyle": "homebody",
+        "habits": [],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u005",
+      "first_name": "Arjun",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 20,
+        "preferred_areas": [
+          "southern"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 7499,
+        "move_in_month": "2026-12",
+        "sleep_schedule": "early",
+        "cleanliness": 2,
+        "guests_frequency": 3,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "most_days",
+        "languages": [
+          "english"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "ambivert",
+        "study_habits": "mostly_on_campus",
+        "cooking_frequency": "most_days",
+        "weekend_lifestyle": "out_a_lot",
+        "habits": [
+          "leaves_dishes"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u006",
+      "first_name": "Jack",
+      "structured": {
+        "campus": "cityu",
+        "max_commute_min": 30,
+        "preferred_areas": [
+          "central",
+          "southern"
+        ],
+        "budget_min_hkd_month": 6000,
+        "budget_max_hkd_month": null,
+        "move_in_month": "2026-12",
+        "sleep_schedule": "early",
+        "cleanliness": 5,
+        "guests_frequency": 1,
+        "noise_tolerance": 5,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "most_days",
+        "languages": [
+          "english",
+          "mandarin"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "unknown",
+        "study_habits": "mostly_on_campus",
+        "cooking_frequency": "most_days",
+        "weekend_lifestyle": "balanced",
+        "habits": [],
+        "extra_dealbreakers": [
+          "strong_food_smells"
+        ]
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u007",
+      "first_name": "Nadia",
+      "structured": {
+        "campus": "hkust",
+        "max_commute_min": null,
+        "preferred_areas": [
+          "sai_kung",
+          "southern",
+          "kowloon_central"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "2027-01",
+        "sleep_schedule": "middle",
+        "cleanliness": 4,
+        "guests_frequency": 1,
+        "noise_tolerance": 4,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "most_days",
+        "languages": [
+          "english",
+          "indonesian",
+          "cantonese"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "introvert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "most_days",
+        "weekend_lifestyle": "balanced",
+        "habits": [
+          "strong_food_smells"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u008",
+      "first_name": "Lin",
+      "structured": {
+        "campus": "cuhk",
+        "max_commute_min": null,
+        "preferred_areas": [
+          "sai_kung"
+        ],
+        "budget_min_hkd_month": 4000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "flexible",
+        "sleep_schedule": "middle",
+        "cleanliness": 3,
+        "guests_frequency": 2,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "yes",
+        "cooking": "sometimes",
+        "languages": [
+          "english",
+          "japanese"
+        ],
+        "dealbreakers": [
+          "frequent_guests"
+        ]
+      },
+      "traits": {
+        "social_energy": "introvert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "sometimes",
+        "weekend_lifestyle": "balanced",
+        "habits": [],
+        "extra_dealbreakers": [
+          "early_alarms"
+        ]
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u009",
+      "first_name": "Tom",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 30,
+        "preferred_areas": [
+          "nt_east",
+          "southern",
+          "kowloon_central"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "2027-02",
+        "sleep_schedule": "early",
+        "cleanliness": 5,
+        "guests_frequency": 5,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "most_days",
+        "languages": [
+          "english",
+          "french"
+        ],
+        "dealbreakers": [
+          "smoker"
+        ]
+      },
+      "traits": {
+        "social_energy": "extrovert",
+        "study_habits": "mostly_on_campus",
+        "cooking_frequency": "unknown",
+        "weekend_lifestyle": "unknown",
+        "habits": [
+          "leaves_dishes"
+        ],
+        "extra_dealbreakers": [
+          "early_alarms"
+        ]
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u010",
+      "first_name": "Fatima",
+      "structured": {
+        "campus": "polyu",
+        "max_commute_min": 30,
+        "preferred_areas": [
+          "any"
+        ],
+        "budget_min_hkd_month": 4000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "2026-12",
+        "sleep_schedule": "middle",
+        "cleanliness": 3,
+        "guests_frequency": 2,
+        "noise_tolerance": 3,
+        "smoker": "no",
+        "has_pet": "yes",
+        "cooking": "most_days",
+        "languages": [
+          "english"
+        ],
+        "dealbreakers": [
+          "frequent_guests"
+        ]
+      },
+      "traits": {
+        "social_energy": "ambivert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "most_days",
+        "weekend_lifestyle": "unknown",
+        "habits": [
+          "overnight_guests"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u011",
+      "first_name": "Olivia",
+      "structured": {
+        "campus": "polyu",
+        "max_commute_min": 45,
+        "preferred_areas": [
+          "western",
+          "southern"
+        ],
+        "budget_min_hkd_month": 6000,
+        "budget_max_hkd_month": null,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "middle",
+        "cleanliness": 2,
+        "guests_frequency": 4,
+        "noise_tolerance": 1,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "most_days",
+        "languages": [
+          "english"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "unknown",
+        "study_habits": "home_needs_quiet",
+        "cooking_frequency": "unknown",
+        "weekend_lifestyle": "balanced",
+        "habits": [
+          "leaves_dishes"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u012",
+      "first_name": "Isabella",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": null,
+        "preferred_areas": [
+          "kowloon_west"
+        ],
+        "budget_min_hkd_month": 4000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "early",
+        "cleanliness": 2,
+        "guests_frequency": 3,
+        "noise_tolerance": 3,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "rarely",
+        "languages": [
+          "english",
+          "french",
+          "vietnamese"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "unknown",
+        "study_habits": "mostly_on_campus",
+        "cooking_frequency": "rarely",
+        "weekend_lifestyle": "balanced",
+        "habits": [],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u013",
+      "first_name": "Hannah",
+      "structured": {
+        "campus": "polyu",
+        "max_commute_min": 20,
+        "preferred_areas": [
+          "western"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 7499,
+        "move_in_month": "2027-02",
+        "sleep_schedule": "middle",
+        "cleanliness": 2,
+        "guests_frequency": 5,
+        "noise_tolerance": 3,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "rarely",
+        "languages": [
+          "english",
+          "korean",
+          "spanish"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "unknown",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "rarely",
+        "weekend_lifestyle": "balanced",
+        "habits": [],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u014",
+      "first_name": "Bao",
+      "structured": {
+        "campus": "hkbu",
+        "max_commute_min": 20,
+        "preferred_areas": [
+          "southern",
+          "kowloon_west"
+        ],
+        "budget_min_hkd_month": 4000,
+        "budget_max_hkd_month": 4999,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "early",
+        "cleanliness": 3,
+        "guests_frequency": 3,
+        "noise_tolerance": 5,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "rarely",
+        "languages": [
+          "english",
+          "japanese"
+        ],
+        "dealbreakers": [
+          "frequent_guests",
+          "messy"
+        ]
+      },
+      "traits": {
+        "social_energy": "ambivert",
+        "study_habits": "unknown",
+        "cooking_frequency": "rarely",
+        "weekend_lifestyle": "balanced",
+        "habits": [],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u015",
+      "first_name": "Priya",
+      "structured": {
+        "campus": "cuhk",
+        "max_commute_min": 30,
+        "preferred_areas": [
+          "kowloon_central"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "late",
+        "cleanliness": 4,
+        "guests_frequency": 1,
+        "noise_tolerance": 5,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "rarely",
+        "languages": [
+          "english",
+          "german"
+        ],
+        "dealbreakers": [
+          "frequent_guests"
+        ]
+      },
+      "traits": {
+        "social_energy": "introvert",
+        "study_habits": "home_needs_quiet",
+        "cooking_frequency": "rarely",
+        "weekend_lifestyle": "balanced",
+        "habits": [],
+        "extra_dealbreakers": [
+          "early_alarms"
+        ]
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u016",
+      "first_name": "Lucas",
+      "structured": {
+        "campus": "hkust",
+        "max_commute_min": 45,
+        "preferred_areas": [
+          "any"
+        ],
+        "budget_min_hkd_month": 4000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "2027-02",
+        "sleep_schedule": "middle",
+        "cleanliness": 2,
+        "guests_frequency": 1,
+        "noise_tolerance": 5,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "most_days",
+        "languages": [
+          "english",
+          "french"
+        ],
+        "dealbreakers": [
+          "late_sleeper",
+          "frequent_guests"
+        ]
+      },
+      "traits": {
+        "social_energy": "introvert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "unknown",
+        "weekend_lifestyle": "balanced",
+        "habits": [
+          "parties"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u017",
+      "first_name": "Grace",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 45,
+        "preferred_areas": [
+          "western",
+          "nt_east"
+        ],
+        "budget_min_hkd_month": 4000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "middle",
+        "cleanliness": 2,
+        "guests_frequency": 2,
+        "noise_tolerance": 1,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "sometimes",
+        "languages": [
+          "english",
+          "cantonese"
+        ],
+        "dealbreakers": [
+          "smoker"
+        ]
+      },
+      "traits": {
+        "social_energy": "ambivert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "sometimes",
+        "weekend_lifestyle": "homebody",
+        "habits": [
+          "early_alarms"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u018",
+      "first_name": "Wei",
+      "structured": {
+        "campus": "cityu",
+        "max_commute_min": 30,
+        "preferred_areas": [
+          "kowloon_central",
+          "southern"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "2027-02",
+        "sleep_schedule": "late",
+        "cleanliness": 5,
+        "guests_frequency": 2,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "sometimes",
+        "languages": [
+          "english",
+          "korean",
+          "german"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "introvert",
+        "study_habits": "mostly_on_campus",
+        "cooking_frequency": "sometimes",
+        "weekend_lifestyle": "unknown",
+        "habits": [],
+        "extra_dealbreakers": [
+          "parties"
+        ]
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u019",
+      "first_name": "Mei",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 20,
+        "preferred_areas": [
+          "southern"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 7499,
+        "move_in_month": "2026-12",
+        "sleep_schedule": "early",
+        "cleanliness": 2,
+        "guests_frequency": 3,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "most_days",
+        "languages": [
+          "english"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "ambivert",
+        "study_habits": "mostly_on_campus",
+        "cooking_frequency": "most_days",
+        "weekend_lifestyle": "unknown",
+        "habits": [
+          "leaves_dishes"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u020",
+      "first_name": "Diego",
+      "structured": {
+        "campus": "cuhk",
+        "max_commute_min": 30,
+        "preferred_areas": [
+          "kowloon_west",
+          "western"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 7499,
+        "move_in_month": "flexible",
+        "sleep_schedule": "middle",
+        "cleanliness": 3,
+        "guests_frequency": 1,
+        "noise_tolerance": 1,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "sometimes",
+        "languages": [
+          "english"
+        ],
+        "dealbreakers": [
+          "late_sleeper"
+        ]
+      },
+      "traits": {
+        "social_energy": "unknown",
+        "study_habits": "home_needs_quiet",
+        "cooking_frequency": "sometimes",
+        "weekend_lifestyle": "out_a_lot",
+        "habits": [],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u021",
+      "first_name": "Emma",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 45,
+        "preferred_areas": [
+          "sai_kung",
+          "kowloon_central",
+          "kowloon_west"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 7499,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "late",
+        "cleanliness": 5,
+        "guests_frequency": 3,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "most_days",
+        "languages": [
+          "english"
+        ],
+        "dealbreakers": [
+          "pets"
+        ]
+      },
+      "traits": {
+        "social_energy": "extrovert",
+        "study_habits": "home_needs_quiet",
+        "cooking_frequency": "unknown",
+        "weekend_lifestyle": "out_a_lot",
+        "habits": [
+          "parties"
+        ],
+        "extra_dealbreakers": [
+          "shoes_indoors"
+        ]
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u022",
+      "first_name": "Liam",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 20,
+        "preferred_areas": [
+          "nt_east",
+          "kowloon_central"
+        ],
+        "budget_min_hkd_month": 4000,
+        "budget_max_hkd_month": 4999,
+        "move_in_month": "2027-01",
+        "sleep_schedule": "late",
+        "cleanliness": 4,
+        "guests_frequency": 3,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "rarely",
+        "languages": [
+          "english",
+          "korean"
+        ],
+        "dealbreakers": [
+          "frequent_guests"
+        ]
+      },
+      "traits": {
+        "social_energy": "ambivert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "rarely",
+        "weekend_lifestyle": "homebody",
+        "habits": [
+          "shoes_indoors"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u023",
+      "first_name": "Ana",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 45,
+        "preferred_areas": [
+          "sai_kung",
+          "kowloon_central",
+          "kowloon_west"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 7499,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "late",
+        "cleanliness": 5,
+        "guests_frequency": 3,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "yes",
+        "cooking": "most_days",
+        "languages": [
+          "english"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "extrovert",
+        "study_habits": "home_needs_quiet",
+        "cooking_frequency": "most_days",
+        "weekend_lifestyle": "unknown",
+        "habits": [
+          "parties"
+        ],
+        "extra_dealbreakers": [
+          "shoes_indoors"
+        ]
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u024",
+      "first_name": "Yuki",
+      "structured": {
+        "campus": "cityu",
+        "max_commute_min": null,
+        "preferred_areas": [
+          "central",
+          "sai_kung",
+          "nt_east"
+        ],
+        "budget_min_hkd_month": 0,
+        "budget_max_hkd_month": 4999,
+        "move_in_month": "2027-02",
+        "sleep_schedule": "middle",
+        "cleanliness": 5,
+        "guests_frequency": 5,
+        "noise_tolerance": 5,
+        "smoker": "no",
+        "has_pet": "yes",
+        "cooking": "most_days",
+        "languages": [
+          "english"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "extrovert",
+        "study_habits": "home_needs_quiet",
+        "cooking_frequency": "most_days",
+        "weekend_lifestyle": "homebody",
+        "habits": [
+          "overnight_guests"
+        ],
+        "extra_dealbreakers": [
+          "strong_food_smells"
+        ]
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u025",
+      "first_name": "Sanjana",
+      "structured": {
+        "campus": "cityu",
+        "max_commute_min": 30,
+        "preferred_areas": [
+          "kowloon_central",
+          "southern"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 5999,
+        "move_in_month": "2027-02",
+        "sleep_schedule": "late",
+        "cleanliness": 5,
+        "guests_frequency": 2,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "sometimes",
+        "languages": [
+          "english",
+          "korean",
+          "german"
+        ],
+        "dealbreakers": []
+      },
+      "traits": {
+        "social_energy": "extrovert",
+        "study_habits": "unknown",
+        "cooking_frequency": "sometimes",
+        "weekend_lifestyle": "out_a_lot",
+        "habits": [
+          "parties"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u026",
+      "first_name": "Jae-Won",
+      "structured": {
+        "campus": "hkust",
+        "max_commute_min": null,
+        "preferred_areas": [
+          "nt_east",
+          "kowloon_west"
+        ],
+        "budget_min_hkd_month": 7500,
+        "budget_max_hkd_month": null,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "middle",
+        "cleanliness": 3,
+        "guests_frequency": 2,
+        "noise_tolerance": 4,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "sometimes",
+        "languages": [
+          "english"
+        ],
+        "dealbreakers": [
+          "frequent_guests"
+        ]
+      },
+      "traits": {
+        "social_energy": "unknown",
+        "study_habits": "mostly_on_campus",
+        "cooking_frequency": "sometimes",
+        "weekend_lifestyle": "out_a_lot",
+        "habits": [
+          "leaves_dishes"
+        ],
+        "extra_dealbreakers": [
+          "overnight_guests"
+        ]
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u027",
+      "first_name": "Minh",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 20,
+        "preferred_areas": [
+          "nt_east",
+          "kowloon_central"
+        ],
+        "budget_min_hkd_month": 6000,
+        "budget_max_hkd_month": 7499,
+        "move_in_month": "2027-01",
+        "sleep_schedule": "late",
+        "cleanliness": 4,
+        "guests_frequency": 3,
+        "noise_tolerance": 2,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "rarely",
+        "languages": [
+          "english",
+          "korean"
+        ],
+        "dealbreakers": [
+          "frequent_guests"
+        ]
+      },
+      "traits": {
+        "social_energy": "ambivert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "rarely",
+        "weekend_lifestyle": "homebody",
+        "habits": [
+          "shoes_indoors"
+        ],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u028",
+      "first_name": "Aarav",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 60,
+        "preferred_areas": [
+          "southern",
+          "nt_east"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 7499,
+        "move_in_month": "2026-11",
+        "sleep_schedule": "early",
+        "cleanliness": 5,
+        "guests_frequency": 3,
+        "noise_tolerance": 4,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "rarely",
+        "languages": [
+          "english",
+          "indonesian"
+        ],
+        "dealbreakers": [
+          "smoker"
+        ]
+      },
+      "traits": {
+        "social_energy": "extrovert",
+        "study_habits": "home_flexible",
+        "cooking_frequency": "rarely",
+        "weekend_lifestyle": "homebody",
+        "habits": [],
+        "extra_dealbreakers": []
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u029",
+      "first_name": "Sofia",
+      "structured": {
+        "campus": "hku",
+        "max_commute_min": 30,
+        "preferred_areas": [
+          "nt_east",
+          "western"
+        ],
+        "budget_min_hkd_month": 5000,
+        "budget_max_hkd_month": 7499,
+        "move_in_month": "2027-02",
+        "sleep_schedule": "middle",
+        "cleanliness": 2,
+        "guests_frequency": 1,
+        "noise_tolerance": 1,
+        "smoker": "no",
+        "has_pet": "yes",
+        "cooking": "rarely",
+        "languages": [
+          "english",
+          "korean"
+        ],
+        "dealbreakers": [
+          "late_sleeper",
+          "frequent_guests"
+        ]
+      },
+      "traits": {
+        "social_energy": "introvert",
+        "study_habits": "mostly_on_campus",
+        "cooking_frequency": "rarely",
+        "weekend_lifestyle": "out_a_lot",
+        "habits": [],
+        "extra_dealbreakers": [
+          "loud_music"
+        ]
+      },
+      "extraction_status": "ok"
+    },
+    {
+      "user_id": "u030",
+      "first_name": "Amira",
+      "structured": {
+        "campus": "hkust",
+        "max_commute_min": null,
+        "preferred_areas": [
+          "nt_east",
+          "kowloon_west"
+        ],
+        "budget_min_hkd_month": 7500,
+        "budget_max_hkd_month": null,
+        "move_in_month": "2027-02",
+        "sleep_schedule": "middle",
+        "cleanliness": 3,
+        "guests_frequency": 2,
+        "noise_tolerance": 4,
+        "smoker": "no",
+        "has_pet": "no",
+        "cooking": "sometimes",
+        "languages": [
+          "english"
+        ],
+        "dealbreakers": [
+          "frequent_guests"
+        ]
+      },
+      "traits": {
+        "social_energy": "ambivert",
+        "study_habits": "unknown",
+        "cooking_frequency": "sometimes",
+        "weekend_lifestyle": "out_a_lot",
+        "habits": [
+          "leaves_dishes"
+        ],
+        "extra_dealbreakers": [
+          "overnight_guests"
+        ]
+      },
+      "extraction_status": "ok"
+    }
+  ]
+}
